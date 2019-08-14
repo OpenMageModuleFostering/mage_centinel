@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Mage_Centinel",
+    "type": "magento-module",
+    "license": "mixed",
+    "homepage": "",
+    "description": "3D Secure Card Validation",
+    "authors": [
+    {
+        "name": "Magento Core Team",
+        "email": "core@magentocommerce.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
